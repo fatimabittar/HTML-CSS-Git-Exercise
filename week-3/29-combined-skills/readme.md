@@ -72,7 +72,7 @@ _Hint: Make sure that all items are centred correctly, so that you can draw a li
 
 When you are done, it should look like the image below.
 
-![Screenshot of the nav menu solution](/images/29-solution-header.png)
+![Screenshot of the nav menu solution](/images/29site-search-solution-header.png)
 
 ## 6. Views
 
